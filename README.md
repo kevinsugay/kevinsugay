@@ -6,7 +6,6 @@
 - [Instagram](https://www.instagram.com/regular_kevin/)
 - [GitHub](https://github.com/kevinsugay) 
 
-
 This site is under construction!
 
 [Go to test page](test.md)

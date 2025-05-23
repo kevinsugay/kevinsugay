@@ -1,1 +1,1 @@
-[[README.md|Go home]]
+[Go home](README.md)

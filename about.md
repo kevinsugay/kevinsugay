@@ -1,0 +1,1 @@
+Hello! I'm Kevin. I'm a narrative designer. That means I design *how* stories are told through games. 

@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-.container-lg {
-    max-width: 400px;
-
+body {
+    width: 400px;
+    margin: 0 auto;
 }

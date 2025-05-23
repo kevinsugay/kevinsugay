@@ -2,4 +2,4 @@
 
 My name is Kevin Sugay!
 
-[[test]]
+[Go to test page](test.md)
